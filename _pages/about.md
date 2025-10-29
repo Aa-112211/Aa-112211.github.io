@@ -23,6 +23,7 @@ This study presents a grasping method for objects with uneven mass distribution 
 
 ## Video
 **In the real word**  
+![太阳_爱给网_aigei_com](https://github.com/user-attachments/assets/38a34697-eac9-4e00-b84b-95157a7c29b2)
 
 
 In the real world, we conducted experiments using the Piper robotic arm, with point cloud data acquired via the D435 scanner. We compiled an image dataset comprising 790 centre-of-gravity points. The dataset includes common household objects such as hammers, hand files, ratchet wrenches, screwdrivers, and pincers. We tested ten objects with uneven mass distributions in real-world settings, evaluating the model's performance in both complex and dynamic scenarios.
