@@ -20,5 +20,7 @@ This study presents a grasping method for objects with uneven mass distribution 
 **right:** The image on the right shows the captured result in a real-world scenario, depicting the grasped objects: a rasp, crowbar, pliers, and ratchet wrench. The method described in this paper enables grasping of unseen objects without requiring additional training.  
 
 # Video
-In the real word  
+**In the real word**  
+
+
 In the real world, we conducted experiments using the Piper robotic arm, with point cloud data acquired via the D435 scanner. We compiled an image dataset comprising 790 centre-of-gravity points. The dataset includes common household objects such as hammers, hand files, ratchet wrenches, screwdrivers, and pincers. We tested ten objects with uneven mass distributions in real-world settings, evaluating the model's performance in both complex and dynamic scenarios.
